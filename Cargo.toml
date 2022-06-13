@@ -67,7 +67,7 @@ structopt = "0.3.25"
 symbolic-common = "8.5"
 symbolic-demangle = { version = "8.5", default-features = false }
 tempfile = "3.2"
-tera = "1.15"
+tera = "1.16"
 uuid = { version = "0.8", features = ["v4"] }
 walkdir = "2.3"
 zip = { version = "0.5", default-features = false }
